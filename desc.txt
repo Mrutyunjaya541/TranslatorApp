@@ -1,0 +1,2 @@
+It is gui based application made by python tkinter module.
+used libraries are tkinter,textblob and nltk.
